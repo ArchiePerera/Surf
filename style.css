@@ -1,0 +1,34 @@
+.jumbotron h1{
+    font-size: 200%;
+}
+
+.jumbotron p{
+    font-size: 130%;
+}
+
+.jumbotron{
+    background: url('img/surf.jpg') no-repeat center center;
+    filter: grayscale(40%);
+    background-size: cover;
+    height: 60vh;
+}
+
+.jumbotron:hover{
+    filter:none;
+}
+
+h1{
+    font-size: 500%;
+}
+
+h4{
+    font-size: 300%;
+}
+
+p{
+    font-size: 120%;;
+}
+
+.card-header  h4{
+    font-size: 150%;
+}
