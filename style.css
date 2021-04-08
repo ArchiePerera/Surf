@@ -16,19 +16,3 @@
 .jumbotron:hover{
     filter:none;
 }
-
-h1{
-    font-size: 500%;
-}
-
-h4{
-    font-size: 300%;
-}
-
-p{
-    font-size: 120%;;
-}
-
-.card-header  h4{
-    font-size: 150%;
-}
