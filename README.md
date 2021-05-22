@@ -2,6 +2,6 @@
 
 ## First try of the Framework
 
-<img alt = "Google Home Page" src = "https://github.com/ArchiePerera/GoogleHomepageProject/blob/main/img/doodle.gif">
+<img alt = "Surf WebSite HomePage" src = "https://github.com/ArchiePerera/GoogleHomepageProject/blob/main/img/test.png">
 
 Written by Archie for [The Hacking Project](https://www.thehackingproject.org/)
